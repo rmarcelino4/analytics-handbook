@@ -1,5 +1,5 @@
 ## Soccer Analytics Handbook
-
+### RM
 [Devin Pleuler](https://twitter.com/devinpleuler) — April 2020
 
 > This is probably overdue. I believe that people who have managed to wiggle themselves into dream jobs have a responsibility to help others reach there too. This was written during the depths of social isolation imposed by the COVID-19 pandemic. During this period, I've had an atypically large number of students and career changers reach out to me with questions, and a little extra free time, so I'm finally completing my assigned homework.
